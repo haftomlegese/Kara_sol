@@ -1,0 +1,20 @@
+version: 1
+
+models:
+  - name: cleaned_telegram_data
+    description: "This model cleans and transforms the raw telegram data."
+    columns:
+      - name: message_id
+        description: "The ID of the message."
+      - name: date
+        description: "The date the message was sent."
+      - name: sender_id
+        description: "The ID of the sender."
+      - name: message
+        description: "The content of the message."
+      - name: media_path
+        description: "Path to any media attached to the message."
+      - name: media_status
+        description: "Indicator if the message contains media."
+        tests:
+          - not_null
