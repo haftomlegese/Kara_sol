@@ -1,0 +1,14 @@
+*.pyc            
+__pycache__/   
+venv/          
+
+.vscode/      
+media
+
+lib/
+lib64/
+include/
+bin/
+pip-selfcheck.json
+
+.DS_Store     
