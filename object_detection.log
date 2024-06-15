@@ -1,0 +1,396 @@
+2024-06-15 11:39:28,010 - INFO - generated new fontManager
+2024-06-15 11:39:50,797 - ERROR - Error during detection process: near ")": syntax error
+2024-06-15 11:48:28,807:INFO:Object detection process started
+2024-06-15 11:48:28,936:INFO:Connected to the PostgreSQL database
+2024-06-15 11:48:28,965:ERROR:Error creating/verifying table: column name "xmin" conflicts with a system column name
+
+2024-06-15 11:50:11,429:INFO:Object detection process started
+2024-06-15 11:50:11,524:INFO:Connected to the PostgreSQL database
+2024-06-15 11:50:11,526:ERROR:Error creating/verifying table: column name "xmin" conflicts with a system column name
+
+2024-06-15 11:51:36,503:INFO:Object detection process started
+2024-06-15 11:51:36,584:INFO:Connected to the PostgreSQL database
+2024-06-15 11:51:36,625:INFO:Table created or verified successfully
+2024-06-15 11:51:45,414:INFO:YOLOv5 model loaded successfully
+2024-06-15 11:52:25,978:INFO:Object detection process started
+2024-06-15 11:52:26,071:INFO:Connected to the PostgreSQL database
+2024-06-15 11:52:26,073:INFO:Table created or verified successfully
+2024-06-15 11:52:30,614:INFO:YOLOv5 model loaded successfully
+2024-06-15 11:52:48,773:INFO:Object detection process started
+2024-06-15 11:52:48,939:INFO:Connected to the PostgreSQL database
+2024-06-15 11:52:48,941:INFO:Table created or verified successfully
+2024-06-15 11:52:53,235:INFO:YOLOv5 model loaded successfully
+2024-06-15 11:52:53,264:INFO:Processing image: 9308.jpg
+2024-06-15 11:52:53,584:INFO:Detection results stored in database for image: 9308.jpg
+2024-06-15 11:52:53,593:INFO:Processing image: 9309.jpg
+2024-06-15 11:52:53,896:ERROR:Error inserting detection result into database for image 9309.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:52:53,897:ERROR:Error inserting detection result into database for image 9309.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:52:53,898:ERROR:Error inserting detection result into database for image 9309.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:52:53,898:ERROR:Error inserting detection result into database for image 9309.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:52:53,898:ERROR:Error inserting detection result into database for image 9309.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:52:53,899:ERROR:Error inserting detection result into database for image 9309.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:52:53,899:ERROR:Error inserting detection result into database for image 9309.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:52:53,899:ERROR:Error inserting detection result into database for image 9309.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:52:53,900:INFO:Detection results stored in database for image: 9309.jpg
+2024-06-15 11:52:53,914:INFO:Processing image: 9310.jpg
+2024-06-15 11:52:54,138:INFO:Detection results stored in database for image: 9310.jpg
+2024-06-15 11:52:54,179:INFO:Processing image: 9311.jpg
+2024-06-15 11:52:54,399:INFO:Detection results stored in database for image: 9311.jpg
+2024-06-15 11:52:54,416:INFO:Processing image: 9312.jpg
+2024-06-15 11:52:54,634:INFO:Detection results stored in database for image: 9312.jpg
+2024-06-15 11:52:54,653:INFO:Processing image: 9313.jpg
+2024-06-15 11:52:54,877:INFO:Detection results stored in database for image: 9313.jpg
+2024-06-15 11:52:54,912:INFO:Processing image: 9314.jpg
+2024-06-15 11:52:55,163:ERROR:Error inserting detection result into database for image 9314.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:52:55,164:INFO:Detection results stored in database for image: 9314.jpg
+2024-06-15 11:52:55,196:INFO:Processing image: 9315.jpg
+2024-06-15 11:52:55,430:INFO:Detection results stored in database for image: 9315.jpg
+2024-06-15 11:52:55,462:INFO:Processing image: 9316.jpg
+2024-06-15 11:52:55,677:INFO:Detection results stored in database for image: 9316.jpg
+2024-06-15 11:52:55,710:INFO:Processing image: 9317.jpg
+2024-06-15 11:52:55,941:INFO:Detection results stored in database for image: 9317.jpg
+2024-06-15 11:52:55,975:INFO:Processing image: 9318.jpg
+2024-06-15 11:52:56,191:INFO:Detection results stored in database for image: 9318.jpg
+2024-06-15 11:52:56,211:INFO:Processing image: 9319.jpg
+2024-06-15 11:52:56,422:INFO:Detection results stored in database for image: 9319.jpg
+2024-06-15 11:52:56,461:INFO:Processing image: 9320.jpg
+2024-06-15 11:52:56,684:ERROR:Error inserting detection result into database for image 9320.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:52:56,684:INFO:Detection results stored in database for image: 9320.jpg
+2024-06-15 11:52:56,719:INFO:Processing image: 9321.jpg
+2024-06-15 11:52:56,931:INFO:Detection results stored in database for image: 9321.jpg
+2024-06-15 11:52:56,959:INFO:Processing image: 9322.jpg
+2024-06-15 11:52:57,160:INFO:Detection results stored in database for image: 9322.jpg
+2024-06-15 11:52:57,196:INFO:Processing image: 9323.jpg
+2024-06-15 11:52:57,452:INFO:Detection results stored in database for image: 9323.jpg
+2024-06-15 11:52:57,487:INFO:Processing image: 9324.jpg
+2024-06-15 11:52:57,717:ERROR:Error inserting detection result into database for image 9324.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:52:57,717:INFO:Detection results stored in database for image: 9324.jpg
+2024-06-15 11:52:57,762:INFO:Processing image: 9325.jpg
+2024-06-15 11:52:57,992:INFO:Detection results stored in database for image: 9325.jpg
+2024-06-15 11:52:58,035:INFO:Processing image: 9326.jpg
+2024-06-15 11:52:58,240:INFO:Detection results stored in database for image: 9326.jpg
+2024-06-15 11:52:58,260:INFO:Processing image: 9327.jpg
+2024-06-15 11:52:58,475:INFO:Detection results stored in database for image: 9327.jpg
+2024-06-15 11:52:58,519:INFO:Processing image: 9328.jpg
+2024-06-15 11:52:58,743:INFO:Detection results stored in database for image: 9328.jpg
+2024-06-15 11:52:58,780:INFO:Processing image: 9329.jpg
+2024-06-15 11:52:59,005:ERROR:Error inserting detection result into database for image 9329.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:52:59,005:INFO:Detection results stored in database for image: 9329.jpg
+2024-06-15 11:52:59,026:INFO:Processing image: 9330.jpg
+2024-06-15 11:52:59,257:INFO:Detection results stored in database for image: 9330.jpg
+2024-06-15 11:52:59,276:INFO:Processing image: 9331.jpg
+2024-06-15 11:52:59,508:INFO:Detection results stored in database for image: 9331.jpg
+2024-06-15 11:52:59,543:INFO:Processing image: 9333.jpg
+2024-06-15 11:52:59,729:INFO:Detection results stored in database for image: 9333.jpg
+2024-06-15 11:52:59,769:INFO:Processing image: 9334.jpg
+2024-06-15 11:52:59,987:INFO:Detection results stored in database for image: 9334.jpg
+2024-06-15 11:53:00,009:INFO:Processing image: 9335.jpg
+2024-06-15 11:53:00,258:INFO:Detection results stored in database for image: 9335.jpg
+2024-06-15 11:53:00,297:INFO:Processing image: 9336.jpg
+2024-06-15 11:53:00,510:ERROR:Error inserting detection result into database for image 9336.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:00,510:INFO:Detection results stored in database for image: 9336.jpg
+2024-06-15 11:53:00,547:INFO:Processing image: 9337.jpg
+2024-06-15 11:53:00,826:INFO:Detection results stored in database for image: 9337.jpg
+2024-06-15 11:53:00,841:INFO:Processing image: 9338.jpg
+2024-06-15 11:53:01,125:INFO:Detection results stored in database for image: 9338.jpg
+2024-06-15 11:53:01,160:INFO:Processing image: 9339.jpg
+2024-06-15 11:53:01,446:INFO:Detection results stored in database for image: 9339.jpg
+2024-06-15 11:53:01,480:INFO:Processing image: 9340.jpg
+2024-06-15 11:53:01,700:ERROR:Error inserting detection result into database for image 9340.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:01,701:INFO:Detection results stored in database for image: 9340.jpg
+2024-06-15 11:53:01,734:INFO:Processing image: 9341.jpg
+2024-06-15 11:53:01,998:INFO:Detection results stored in database for image: 9341.jpg
+2024-06-15 11:53:02,043:INFO:Processing image: 9344.jpg
+2024-06-15 11:53:02,277:INFO:Detection results stored in database for image: 9344.jpg
+2024-06-15 11:53:02,297:INFO:Processing image: 9346.jpg
+2024-06-15 11:53:02,547:ERROR:Error inserting detection result into database for image 9346.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:02,547:INFO:Detection results stored in database for image: 9346.jpg
+2024-06-15 11:53:02,580:INFO:Processing image: 9347.jpg
+2024-06-15 11:53:02,800:ERROR:Error inserting detection result into database for image 9347.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:02,801:INFO:Detection results stored in database for image: 9347.jpg
+2024-06-15 11:53:02,828:INFO:Processing image: 9348.jpg
+2024-06-15 11:53:03,071:INFO:Detection results stored in database for image: 9348.jpg
+2024-06-15 11:53:03,111:INFO:Processing image: 9349.jpg
+2024-06-15 11:53:03,342:INFO:Detection results stored in database for image: 9349.jpg
+2024-06-15 11:53:03,381:INFO:Processing image: 9350.jpg
+2024-06-15 11:53:03,642:INFO:Detection results stored in database for image: 9350.jpg
+2024-06-15 11:53:03,680:INFO:Processing image: 9351.jpg
+2024-06-15 11:53:03,921:INFO:Detection results stored in database for image: 9351.jpg
+2024-06-15 11:53:03,942:INFO:Processing image: 9352.jpg
+2024-06-15 11:53:04,277:INFO:Detection results stored in database for image: 9352.jpg
+2024-06-15 11:53:04,323:INFO:Processing image: 9353.jpg
+2024-06-15 11:53:04,628:INFO:Detection results stored in database for image: 9353.jpg
+2024-06-15 11:53:04,661:INFO:Processing image: 9354.jpg
+2024-06-15 11:53:04,872:INFO:Detection results stored in database for image: 9354.jpg
+2024-06-15 11:53:04,913:INFO:Processing image: 9355.jpg
+2024-06-15 11:53:05,141:INFO:Detection results stored in database for image: 9355.jpg
+2024-06-15 11:53:05,167:INFO:Processing image: 9356.jpg
+2024-06-15 11:53:05,388:ERROR:Error inserting detection result into database for image 9356.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:05,389:ERROR:Error inserting detection result into database for image 9356.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:05,389:ERROR:Error inserting detection result into database for image 9356.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:05,389:INFO:Detection results stored in database for image: 9356.jpg
+2024-06-15 11:53:05,401:INFO:Processing image: 9357.jpg
+2024-06-15 11:53:05,622:ERROR:Error inserting detection result into database for image 9357.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:05,623:ERROR:Error inserting detection result into database for image 9357.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:05,623:ERROR:Error inserting detection result into database for image 9357.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:05,624:ERROR:Error inserting detection result into database for image 9357.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:05,624:ERROR:Error inserting detection result into database for image 9357.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:05,624:ERROR:Error inserting detection result into database for image 9357.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:05,625:ERROR:Error inserting detection result into database for image 9357.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:05,625:ERROR:Error inserting detection result into database for image 9357.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:05,625:INFO:Detection results stored in database for image: 9357.jpg
+2024-06-15 11:53:05,644:INFO:Processing image: 9358.jpg
+2024-06-15 11:53:05,893:INFO:Detection results stored in database for image: 9358.jpg
+2024-06-15 11:53:05,932:INFO:Processing image: 9359.jpg
+2024-06-15 11:53:06,169:INFO:Detection results stored in database for image: 9359.jpg
+2024-06-15 11:53:06,188:INFO:Processing image: 9360.jpg
+2024-06-15 11:53:06,448:INFO:Detection results stored in database for image: 9360.jpg
+2024-06-15 11:53:06,468:INFO:Processing image: 9361.jpg
+2024-06-15 11:53:06,704:INFO:Detection results stored in database for image: 9361.jpg
+2024-06-15 11:53:06,731:INFO:Processing image: 9362.jpg
+2024-06-15 11:53:06,952:ERROR:Error inserting detection result into database for image 9362.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:06,953:INFO:Detection results stored in database for image: 9362.jpg
+2024-06-15 11:53:06,985:INFO:Processing image: 9363.jpg
+2024-06-15 11:53:07,164:ERROR:Error inserting detection result into database for image 9363.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:07,164:INFO:Detection results stored in database for image: 9363.jpg
+2024-06-15 11:53:07,198:INFO:Processing image: 9364.jpg
+2024-06-15 11:53:07,414:INFO:Detection results stored in database for image: 9364.jpg
+2024-06-15 11:53:07,454:INFO:Processing image: 9365.jpg
+2024-06-15 11:53:07,686:INFO:Detection results stored in database for image: 9365.jpg
+2024-06-15 11:53:07,718:INFO:Processing image: 9366.jpg
+2024-06-15 11:53:07,929:INFO:Detection results stored in database for image: 9366.jpg
+2024-06-15 11:53:07,961:INFO:Processing image: 9367.jpg
+2024-06-15 11:53:08,186:INFO:Detection results stored in database for image: 9367.jpg
+2024-06-15 11:53:08,222:INFO:Processing image: 9368.jpg
+2024-06-15 11:53:08,451:INFO:Detection results stored in database for image: 9368.jpg
+2024-06-15 11:53:08,495:INFO:Processing image: 9369.jpg
+2024-06-15 11:53:08,736:INFO:Detection results stored in database for image: 9369.jpg
+2024-06-15 11:53:08,755:INFO:Processing image: 9370.jpg
+2024-06-15 11:53:08,937:INFO:Detection results stored in database for image: 9370.jpg
+2024-06-15 11:53:08,973:INFO:Processing image: 9371.jpg
+2024-06-15 11:53:09,163:ERROR:Error inserting detection result into database for image 9371.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:09,163:INFO:Detection results stored in database for image: 9371.jpg
+2024-06-15 11:53:09,197:INFO:Processing image: 9373.jpg
+2024-06-15 11:53:09,410:INFO:Detection results stored in database for image: 9373.jpg
+2024-06-15 11:53:09,443:INFO:Processing image: 9374.jpg
+2024-06-15 11:53:09,683:ERROR:Error inserting detection result into database for image 9374.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:09,684:INFO:Detection results stored in database for image: 9374.jpg
+2024-06-15 11:53:09,707:INFO:Processing image: 9375.jpg
+2024-06-15 11:53:09,913:INFO:Detection results stored in database for image: 9375.jpg
+2024-06-15 11:53:09,937:INFO:Processing image: 9376.jpg
+2024-06-15 11:53:10,160:INFO:Detection results stored in database for image: 9376.jpg
+2024-06-15 11:53:10,192:INFO:Processing image: 9377.jpg
+2024-06-15 11:53:10,415:INFO:Detection results stored in database for image: 9377.jpg
+2024-06-15 11:53:10,461:INFO:Processing image: 9378.jpg
+2024-06-15 11:53:10,709:INFO:Detection results stored in database for image: 9378.jpg
+2024-06-15 11:53:10,747:INFO:Processing image: 9379.jpg
+2024-06-15 11:53:10,992:INFO:Detection results stored in database for image: 9379.jpg
+2024-06-15 11:53:11,032:INFO:Processing image: 9380.jpg
+2024-06-15 11:53:11,262:INFO:Detection results stored in database for image: 9380.jpg
+2024-06-15 11:53:11,296:INFO:Processing image: 9381.jpg
+2024-06-15 11:53:11,516:INFO:Detection results stored in database for image: 9381.jpg
+2024-06-15 11:53:11,550:INFO:Processing image: 9382.jpg
+2024-06-15 11:53:11,816:ERROR:Error inserting detection result into database for image 9382.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:11,816:ERROR:Error inserting detection result into database for image 9382.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:11,817:ERROR:Error inserting detection result into database for image 9382.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:11,817:INFO:Detection results stored in database for image: 9382.jpg
+2024-06-15 11:53:11,865:INFO:Processing image: 9383.jpg
+2024-06-15 11:53:12,111:INFO:Detection results stored in database for image: 9383.jpg
+2024-06-15 11:53:12,137:INFO:Processing image: 9384.jpg
+2024-06-15 11:53:12,383:INFO:Detection results stored in database for image: 9384.jpg
+2024-06-15 11:53:12,428:INFO:Processing image: 9385.jpg
+2024-06-15 11:53:12,657:ERROR:Error inserting detection result into database for image 9385.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:12,657:INFO:Detection results stored in database for image: 9385.jpg
+2024-06-15 11:53:12,696:INFO:Processing image: 9386.jpg
+2024-06-15 11:53:12,950:INFO:Detection results stored in database for image: 9386.jpg
+2024-06-15 11:53:13,006:INFO:Processing image: 9387.jpg
+2024-06-15 11:53:13,257:INFO:Detection results stored in database for image: 9387.jpg
+2024-06-15 11:53:13,283:INFO:Processing image: 9388.jpg
+2024-06-15 11:53:13,570:INFO:Detection results stored in database for image: 9388.jpg
+2024-06-15 11:53:13,602:INFO:Processing image: 9389.jpg
+2024-06-15 11:53:13,840:ERROR:Error inserting detection result into database for image 9389.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:13,841:INFO:Detection results stored in database for image: 9389.jpg
+2024-06-15 11:53:13,866:INFO:Processing image: 9390.jpg
+2024-06-15 11:53:14,127:ERROR:Error inserting detection result into database for image 9390.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:14,127:INFO:Detection results stored in database for image: 9390.jpg
+2024-06-15 11:53:14,148:INFO:Processing image: 9391.jpg
+2024-06-15 11:53:14,322:ERROR:Error inserting detection result into database for image 9391.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:14,323:INFO:Detection results stored in database for image: 9391.jpg
+2024-06-15 11:53:14,343:INFO:Processing image: 9392.jpg
+2024-06-15 11:53:14,532:INFO:Detection results stored in database for image: 9392.jpg
+2024-06-15 11:53:14,564:INFO:Processing image: 9393.jpg
+2024-06-15 11:53:14,773:ERROR:Error inserting detection result into database for image 9393.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:14,774:INFO:Detection results stored in database for image: 9393.jpg
+2024-06-15 11:53:14,797:INFO:Processing image: 9394.jpg
+2024-06-15 11:53:15,028:ERROR:Error inserting detection result into database for image 9394.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:15,028:INFO:Detection results stored in database for image: 9394.jpg
+2024-06-15 11:53:15,048:INFO:Processing image: 9395.jpg
+2024-06-15 11:53:15,271:ERROR:Error inserting detection result into database for image 9395.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:15,271:INFO:Detection results stored in database for image: 9395.jpg
+2024-06-15 11:53:15,289:INFO:Processing image: 9396.jpg
+2024-06-15 11:53:15,552:ERROR:Error inserting detection result into database for image 9396.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:15,553:ERROR:Error inserting detection result into database for image 9396.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:15,554:ERROR:Error inserting detection result into database for image 9396.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:15,554:ERROR:Error inserting detection result into database for image 9396.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:15,555:ERROR:Error inserting detection result into database for image 9396.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:15,556:ERROR:Error inserting detection result into database for image 9396.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:15,556:ERROR:Error inserting detection result into database for image 9396.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:15,557:ERROR:Error inserting detection result into database for image 9396.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:15,557:INFO:Detection results stored in database for image: 9396.jpg
+2024-06-15 11:53:15,598:INFO:Processing image: 9397.jpg
+2024-06-15 11:53:15,789:INFO:Detection results stored in database for image: 9397.jpg
+2024-06-15 11:53:15,834:INFO:Processing image: 9398.jpg
+2024-06-15 11:53:16,110:ERROR:Error inserting detection result into database for image 9398.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:16,110:INFO:Detection results stored in database for image: 9398.jpg
+2024-06-15 11:53:16,136:INFO:Processing image: 9399.jpg
+2024-06-15 11:53:16,362:INFO:Detection results stored in database for image: 9399.jpg
+2024-06-15 11:53:16,406:INFO:Processing image: 9400.jpg
+2024-06-15 11:53:16,663:ERROR:Error inserting detection result into database for image 9400.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:16,664:INFO:Detection results stored in database for image: 9400.jpg
+2024-06-15 11:53:16,700:INFO:Processing image: 9401.jpg
+2024-06-15 11:53:16,943:ERROR:Error inserting detection result into database for image 9401.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:16,944:ERROR:Error inserting detection result into database for image 9401.jpg: current transaction is aborted, commands ignored until end of transaction block
+
+2024-06-15 11:53:16,944:INFO:Detection results stored in database for image: 9401.jpg
+2024-06-15 11:53:16,967:INFO:Processing image: 9402.jpg
+2024-06-15 11:53:17,195:ERROR:Error inserting detection result into database for image 9402.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:17,196:INFO:Detection results stored in database for image: 9402.jpg
+2024-06-15 11:53:17,218:INFO:Processing image: 9403.jpg
+2024-06-15 11:53:17,452:INFO:Detection results stored in database for image: 9403.jpg
+2024-06-15 11:53:17,499:INFO:Processing image: 9404.jpg
+2024-06-15 11:53:17,763:INFO:Detection results stored in database for image: 9404.jpg
+2024-06-15 11:53:17,782:INFO:Processing image: 9405.jpg
+2024-06-15 11:53:18,036:ERROR:Error inserting detection result into database for image 9405.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:18,036:INFO:Detection results stored in database for image: 9405.jpg
+2024-06-15 11:53:18,079:INFO:Processing image: 9406.jpg
+2024-06-15 11:53:18,348:ERROR:Error inserting detection result into database for image 9406.jpg: column "xmin" of relation "object_detections" does not exist
+LINE 1: ...t_detections (image_name, class_name, confidence, xmin, ymin...
+                                                             ^
+
+2024-06-15 11:53:18,348:INFO:Detection results stored in database for image: 9406.jpg
+2024-06-15 11:53:18,382:INFO:Processing image: 9407.jpg
+2024-06-15 11:53:18,631:INFO:Detection results stored in database for image: 9407.jpg
+2024-06-15 11:53:18,678:INFO:Processing image: 9408.jpg
+2024-06-15 11:53:18,916:INFO:Detection results stored in database for image: 9408.jpg
+2024-06-15 11:53:18,965:INFO:Processing image: 9409.jpg
+2024-06-15 11:53:19,221:INFO:Detection results stored in database for image: 9409.jpg
+2024-06-15 11:53:19,270:INFO:Processing image: 9410.jpg
+2024-06-15 11:53:19,513:INFO:Detection results stored in database for image: 9410.jpg
+2024-06-15 11:53:19,536:INFO:Processing image: 9411.jpg
+2024-06-15 11:53:19,793:INFO:Detection results stored in database for image: 9411.jpg
+2024-06-15 11:53:19,844:INFO:Processing image: 9412.jpg
+2024-06-15 11:53:20,111:INFO:Detection results stored in database for image: 9412.jpg
+2024-06-15 11:53:20,111:INFO:Database connection closed
+2024-06-15 11:53:20,111:INFO:Object detection process completed

@@ -6,3 +6,10 @@ psycopg2-binary
 dbt
 dbt-core 
 dbt-postgres
+opencv-python
+tensorflow
+torch
+torchvision
+fastapi
+uvicorn
+psycopg2
